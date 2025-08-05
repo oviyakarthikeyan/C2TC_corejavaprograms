@@ -9,7 +9,6 @@ public class WhileDemo {
 			System.out.println(i);
 			i++;
 		}
-
 	}
 
 }
