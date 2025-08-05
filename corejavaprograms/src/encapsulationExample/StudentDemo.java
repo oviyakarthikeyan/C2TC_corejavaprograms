@@ -11,7 +11,7 @@ public class StudentDemo {
 		
 		System.out.println(s);
 		
-        Student s1=new Student();
+		Student s1=new Student();
 		
 		s1.setSid(102);
 		s1.setSname("Leelaa");
