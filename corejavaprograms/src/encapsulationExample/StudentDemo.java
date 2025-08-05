@@ -10,7 +10,7 @@ public class StudentDemo {
 		s.setAvg(89.5f);
 		
 		System.out.println(s);
-		
+
 		Student s1=new Student();
 		
 		s1.setSid(102);
