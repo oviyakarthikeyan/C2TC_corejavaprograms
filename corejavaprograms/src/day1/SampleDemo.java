@@ -6,5 +6,4 @@ public class SampleDemo {
 		System.out.println("Welcome");
 		System.out.println("By Oviya");
 	}
-
 }
