@@ -31,7 +31,7 @@ public class Trainer extends Person{
 	}
 	@Override
 	public String toString() {
-		return "Trainer [eid=" + eid + ", designation=" + designation + ", location=" + location + "]";
+		return "Trainer [pid="+super.getPid()+", name="+super.getName()+", city="+super.getCity()+", eid=" + eid + ", designation=" + designation + ", location=" + location + "]";
 	}
 	
 }
