@@ -9,7 +9,7 @@ public class TechTrainer extends Trainer {
 	
 	@Override
 	public void checks() {
-		System.out.println("Assignments give from Inheritance conceptS");
+		System.out.println("Assignments give from Inheritance concepts");
 	}
 	
 }
