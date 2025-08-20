@@ -10,6 +10,7 @@ public class TnsifCgDemo {
 		t1.session();
 		t1.checks();
 		
+	   System.out.println();
        Trainer t2=new TechTrainer();
 		
         t2.display();
