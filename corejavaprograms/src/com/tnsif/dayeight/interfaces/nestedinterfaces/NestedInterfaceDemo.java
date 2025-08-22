@@ -8,7 +8,5 @@ public class NestedInterfaceDemo {
 		NestedInterfaceClass obj = new NestedInterfaceClass();
 		obj.print();
 		System.out.println(NestedInterfaceClass.id);
-
 	}
-
 }
