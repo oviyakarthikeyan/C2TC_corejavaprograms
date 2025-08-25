@@ -7,8 +7,5 @@ public class LambdaWithoutParameter {
 		
 		IStatement s = () -> {return "Hello World!!";};
 		System.out.println(s.show());
-
-
 	}
-
 }
