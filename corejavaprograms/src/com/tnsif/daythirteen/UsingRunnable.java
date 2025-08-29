@@ -22,7 +22,7 @@ public class UsingRunnable implements Runnable {
 			} catch (InterruptedException e) {
 				System.out.println("Error " + e.getMessage());
 			}
-			System.out.println(msg + i);
+			System.out.println(msg +" "+ i);
 		}
 	}
 }
