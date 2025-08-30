@@ -18,9 +18,9 @@ public class LowerBoundedWildCardDemo {
 		LowerBoundedWildCard.displayNumbers(numberList);
 
 		
-		  List<Number> doubleList= Arrays.asList(1.0,2.0,3.0,9);
-		  System.out.println("Display Double values");
-		  LowerBoundedWildCard.displayNumbers(doubleList);
+		 List<Number> doubleList= Arrays.asList(1.0,2.0,3.0,9);
+		 System.out.println("Display Double values");
+		 LowerBoundedWildCard.displayNumbers(doubleList);
 		 
 	}
 }
